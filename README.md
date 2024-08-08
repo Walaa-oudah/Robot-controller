@@ -100,8 +100,14 @@ For Basic Styling of page and control buttons.
 5.	Select Database: Choose Robot_controller from the list.
 6.	View Table: Click on the commands table and check if the commands are being logged correctly.
 
-   add photos here
+#### The website will be as shown in the pictures below:
+   
+<img src="https://github.com/user-attachments/assets/af3953c2-9e71-46a5-beb2-3a667c14e703" width="400" height="400">
 
+<img src="https://github.com/user-attachments/assets/c39ad0bf-5f53-4452-a1ba-15e050994db2" width="400" height="400">
+
+<img src="https://github.com/user-attachments/assets/85679d60-c00b-4f1d-b79f-c1485e911381" width="500" height="400">
+   
    
 ### Step 4: Create the last input retrieveing Page
 #### - retrieve.html 
@@ -118,9 +124,17 @@ For Basic Styling of the retrieve link.
 3.	Check Data in Database
 4.	Open phpMyAdmin: Go to http://localhost/phpmyadmin.
 5.	Select Database: Choose Robot_controller from the list.
-6.	View Table: Click on the commands table and check if the last commands shows is the same as what clickinh on the retrieve button displayed correctly.
+6.	View Table: Click on the commands table and check if the last command showing is the same as what last command on the retrieve button displayed correctly.
 
- add photos here
+ #### The website will be as shown in the pictures below:
+   
+<img src="https://github.com/user-attachments/assets/457e5714-e19a-428f-8280-d8b7649310ce" width="400" height="400">
+
+<img src="https://github.com/user-attachments/assets/ab53529e-ee7c-4d72-a7c5-7503b4cbea43" width="300" height="200">
+
+<img src="https://github.com/user-attachments/assets/c39ad0bf-5f53-4452-a1ba-15e050994db2" width="400" height="400">
+
+<img src="https://github.com/user-attachments/assets/be50cd9a-4412-42a5-99a0-e615dfbb8448" width="400" height="500">
 
 
 # Summary:
@@ -139,34 +153,3 @@ The Robot Controller project consists of two primary web pages: a control page t
 
 •	Visual Studio Code
 
-
-#### Project Report
-##### Project Report
-###### Project Report
-
-hello how are you
-
-ex Git :
-```
-print ("hello world")
-else for code copying
-
-```
-
-
-### add links to use :
-[Youtube] (https://www.youtube.com/watch?v=evz1LqEomTE&t=234s) - to learn how to write read me file
-
-
-### add image :
-
-<div> 
-
-<img src="https://github.com/user-attachments/assets/642c00ec-4e0d-4324-bc3e-2b240a1524c0" width="300" height="200">
-
-<img src="https://github.com/user-attachments/assets/5c7a0b27-94fd-45ea-a0cb-b6c29f7b432e" width="300" height="200">
-</div>
-
-### add video :
-
-[![vedio title]]
