@@ -101,12 +101,16 @@ For Basic Styling of page and control buttons.
 6.	View Table: Click on the commands table and check if the commands are being logged correctly.
 
 #### The website will be as shown in the pictures below:
+
+<div> 
    
 <img src="https://github.com/user-attachments/assets/af3953c2-9e71-46a5-beb2-3a667c14e703" width="400" height="400">
 
 <img src="https://github.com/user-attachments/assets/c39ad0bf-5f53-4452-a1ba-15e050994db2" width="400" height="400">
 
 <img src="https://github.com/user-attachments/assets/85679d60-c00b-4f1d-b79f-c1485e911381" width="500" height="400">
+
+</div>
    
    
 ### Step 4: Create the last input retrieveing Page
@@ -127,6 +131,8 @@ For Basic Styling of the retrieve link.
 6.	View Table: Click on the commands table and check if the last command showing is the same as what last command on the retrieve button displayed correctly.
 
  #### The website will be as shown in the pictures below:
+
+ <div> 
    
 <img src="https://github.com/user-attachments/assets/457e5714-e19a-428f-8280-d8b7649310ce" width="400" height="400">
 
@@ -135,6 +141,8 @@ For Basic Styling of the retrieve link.
 <img src="https://github.com/user-attachments/assets/c39ad0bf-5f53-4452-a1ba-15e050994db2" width="400" height="400">
 
 <img src="https://github.com/user-attachments/assets/be50cd9a-4412-42a5-99a0-e615dfbb8448" width="400" height="500">
+
+</div>
 
 
 # Summary:
