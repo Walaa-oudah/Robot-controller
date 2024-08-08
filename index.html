@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Robot Controller</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Robot Controller</h1>
+    <div class="controls">
+        <button class="button" onclick="sendCommand('forward')">Forward</button>
+        <button class="button" onclick="sendCommand('backward')">Backward</button>
+        <button class="button" onclick="sendCommand('left')">Left</button>
+        <button class="button" onclick="sendCommand('right')">Right</button>
+        <button class="button" onclick="sendCommand('stop')">Stop</button>
+    </div>
+
+    <script>
+        function sendCommand(direction) {
+            fetch('control.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: 'direction=' + encodeURIComponent(direction)
+            })
+            .then(response => response.text())
+            .then(data => console.log(data))
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
